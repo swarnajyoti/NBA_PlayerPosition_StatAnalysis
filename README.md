@@ -40,10 +40,10 @@ It's seems that the overall trend shows that higher draft pick gives better numb
 
 We found out two names that create the spike at gp: Manu Ginobili and Isaiah Thomas. IT create the spike in ppg due to his inprobable all-star form in Boston Celtics and Manu just being Manu. Seeing the downhill of IT is a sad story though.
 
-### Manu Ginobili
+## Manu Ginobili
 ![manu](https://github.com/swarnajyoti/NBA_PlayerPosition_StatAnalysis/blob/master/Images/manu.png)
 
-### Isaiah Thomas
+## Isaiah Thomas
 ![thomas](https://github.com/swarnajyoti/NBA_PlayerPosition_StatAnalysis/blob/master/Images/thomas.png)
 
 
@@ -61,7 +61,7 @@ Here's the complete list of best player for each draft pick, measured by the 'sc
 5. In the case of 8th pick, the best player is Andre Miller. Among the top 10 pick, only 8th pick that actually has a non all-star player as their best player. But it is reasonable as beside Miller, other notable players are KCP, Rudy Gay, and Jamal Crawford.
 
 
-### Interestingly one of questionable result: where is Kobe Bryant? Instead of Kobe, the best player in 13th pick is Donovan Mitchell. This is happened most likely because: Mitchell average more games per season and has higher net rating than Kobe. In his old days, Kobe suffer many harsh injuries and mediocre teammate that affect his total stats.
+## Interestingly one of questionable result: where is Kobe Bryant? Instead of Kobe, the best player in 13th pick is Donovan Mitchell. This is happened most likely because: Mitchell average more games per season and has higher net rating than Kobe. In his old days, Kobe suffer many harsh injuries and mediocre teammate that affect his total stats.
 
 # Conclusion
 We have see the best/worst NBA player per their draft position and analyze why the results happened. Well it is not the most objective results, as we use many assumption for our analysis. We also only use a simple metric to rank the players. For the future, I want to use more advanced machine learning method to classify players 'tier', which also become one of the most debatable topic among NBA fans. I welcome any suggestion about my method/analysis. Cheers!
